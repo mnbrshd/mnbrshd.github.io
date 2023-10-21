@@ -30,7 +30,7 @@ const config = {
   },
   resume: {
     fileUrl:
-      'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://drive.google.com/file/d/1sAHsVwfbnQFy3d-ddR5lvywEi6yLeP2k/view?usp=sharing', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'Python',
@@ -62,16 +62,16 @@ const config = {
   ],
   certifications: [
     {
-      name: 'Computer Vision Skill Recognition',
-      body: 'Workera.ai',
-      year: 'April 2023',
-      link: 'https://app.workera.ai/public/candidate/certificate?code=PKW2C3LK'
-    },
-    {
       name: 'MLOps: ML Model Deployment + AWS Sagemaker, GCP, Apple Cases',
       body: 'Udemy',
       year: 'June 2023',
       link: 'https://www.udemy.com/certificate/UC-45fa8654-74ce-4771-931f-534afe853501/'
+    },
+    {
+      name: 'Computer Vision Skill Recognition',
+      body: 'Workera.ai',
+      year: 'April 2023',
+      link: 'https://app.workera.ai/public/candidate/certificate?code=PKW2C3LK'
     },
     {
       name: 'Modern Computer Vision PyTorch, Tensorflow2 Keras & OpenCV4',
