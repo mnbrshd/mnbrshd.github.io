@@ -60,14 +60,50 @@ const config = {
       companyLink: 'https://siparadigm.com',
     },
   ],
-  /* certifications: [
+  certifications: [
     {
-      name: 'Lorem ipsum',
-      body: 'Lorem ipsum dolor sit amet',
-      year: 'March 2022',
-      link: 'https://example.com'
+      name: 'Computer Vision Skill Recognition',
+      body: 'Workera.ai',
+      year: 'April 2023',
+      link: 'https://app.workera.ai/public/candidate/certificate?code=PKW2C3LK'
     },
-  ], */
+    {
+      name: 'MLOps: ML Model Deployment + AWS Sagemaker, GCP, Apple Cases',
+      body: 'Udemy',
+      year: 'June 2023',
+      link: 'https://www.udemy.com/certificate/UC-45fa8654-74ce-4771-931f-534afe853501/'
+    },
+    {
+      name: 'Modern Computer Vision PyTorch, Tensorflow2 Keras & OpenCV4',
+      body: 'Udemy',
+      year: 'February 2023',
+      link: 'https://www.udemy.com/certificate/UC-06cac7f1-b10f-4087-b3af-6eacfcf93050/'
+    },
+    {
+      name: 'Agile with Atlassian Jira',
+      body: 'Coursera',
+      year: 'December 2022',
+      link: 'https://www.coursera.org/account/accomplishments/certificate/MH6UBCT4QMC5/'
+    },
+    {
+      name: 'Complete C# Unity Game Developer 3D',
+      body: 'Udemy',
+      year: 'November 2022',
+      link: 'https://www.udemy.com/certificate/UC-05d0eb27-934d-43ef-9713-1c51ea322fe9/'
+    },
+    {
+      name: 'Learn Unity Shaders from Scratch',
+      body: 'Udemy',
+      year: 'November 2022',
+      link: 'https://www.udemy.com/certificate/UC-b0d8bde5-7638-4e37-8e93-978c7c1e742b/'
+    },
+    {
+      name: 'Frontend Engineer Career Path',
+      body: 'Codecademy',
+      year: 'February 2022',
+      link: 'https://www.codecademy.com/profiles/muneebArshad5141444067/certificates/5f85dd867b67b60014ac9ea3'
+    },
+  ], 
   education: [
     {
       institution: 'National University of Sciences and Technology, Islamabad, Pakistan',
@@ -102,7 +138,7 @@ const config = {
     {
       title: 'Realm Rush',
       description:
-        "I developed a grid-based game where the user strategically placed crossbows on different grids to target enemies moving from one waypoint to another. To add an element of challenge, the path that enemies took was dynamically controlled and updated by the A* Search algorithm. This algorithm ensured that the enemies found the shortest path while avoiding obstacles such as water and trees in the environment, as well as crossbows placed by the user. To optimize the user's experience, the crossbows targeted the enemy closest to them by measuring the Euclidean distance from all enemies. Additionally, I implemented a currency system that limited the user's ability to place crossbows. If an enemy reached its target, the user's currency decreased. However, if a crossbow destroyed the enemy, the user's currency increased, allowing them to purchase more crossbows. To ramp up the game's difficulty, every time an enemy was destroyed, all newly-spawning enemies required more hits to be defeated than the previous ones. This dynamic difficulty scaling provided an additional challenge for the player. If the currency value reached zero, the game would be over and the user would have to start all over again.",
+        "I designed a grid-based game where players place crossbows to stop enemies moving between waypoints. The A* Search algorithm controls enemy paths and crossbows target the closest enemy. A currency system limits crossbow placement, with currency decreasing if an enemy reaches its target and increasing when a crossbow defeats an enemy. The game gets progressively harder as new enemies require more hits to defeat, and running out of currency leads to a game over. Made using Unity and C#.",
       link: 'https://sharemygame.com/@Deathsmoke94/muneeb-s-realm-rush/',
     },
   ],
