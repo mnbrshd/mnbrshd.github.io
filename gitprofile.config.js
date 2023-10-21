@@ -77,18 +77,18 @@ const config = {
   // To hide the `My Projects` section, keep it empty.
   externalProjects: [
     {
-      title: 'Project Name',
+      title: 'Travel Advisor',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+        "This is a React application that tells a user about local attractions, hotels and restaurants depending on the user's location. Made using React.js and Firebase DB.",
       imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://example.com',
+      link: 'https://travel-advisor-jsmuneeb.netlify.app',
     },
     {
-      title: 'Project Name',
+      title: 'Biorhythm Calculator',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+        "The biorhythm theory is the pseudoscientific idea that our daily lives are significantly affected by rhythmic cycles with periods of exactly 23, 28 and 33 days, typically a 23-day physical cycle, a 28-day emotional cycle, and a 33-day intellectual cycle. Made using React.js, Ionic, Rechart.js and Day.js",
       imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://example.com',
+      link: 'https://munsbiorhythmcalculator.netlify.app',
     },
   ],
   // Display blog posts from your medium or dev account. (Optional)
