@@ -34,13 +34,22 @@ const config = {
   },
   skills: [
     'Python',
+    'C#',
+    'C++',
+    'HTML',
+    'CSS',
     'JavaScript',
     'React.js',
+    'FastAPI',
+    'SQLAlchemy',
     'MySQL',
     'PostgreSQL',
+    'Tensorflow',
+    'PyTorch',
+    'AWS S3',
+    'Jira',
     'Git',
     'Docker',
-    'CSS'
   ],
   experiences: [
     {
@@ -165,12 +174,12 @@ const config = {
     },
   },
 
-  // Optional Footer. Supports plain text or HTML.
-  //footer: `Made with <a 
-     // class="text-primary""
-     // target="_blank"
-    //  rel="noreferrer"
-  //  >GitProfile</a> and ❤️`,
+  /Optional Footer. Supports plain text or HTML.
+  footer: `Made with <a 
+     class="text-primary"https://github.com/mnbrshd/mnbrshd.github.io"
+     target="_blank"
+    rel="noreferrer"
+  >GitProfile</a> and ❤️`,
 };
 
 export default config;
