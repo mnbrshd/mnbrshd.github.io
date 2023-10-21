@@ -174,7 +174,7 @@ const config = {
     },
   },
 
-  /Optional Footer. Supports plain text or HTML.
+  // Optional Footer. Supports plain text or HTML.
   footer: `Made with <a 
      class="text-primary"https://github.com/mnbrshd/mnbrshd.github.io"
      target="_blank"
