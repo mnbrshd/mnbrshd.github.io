@@ -99,6 +99,12 @@ const config = {
       imageUrl: 'https://via.placeholder.com/250x250',
       link: 'https://munsbiorhythmcalculator.netlify.app',
     },
+    {
+      title: 'Realm Rush',
+      description:
+        "I developed a grid-based game where the user strategically placed crossbows on different grids to target enemies moving from one waypoint to another. To add an element of challenge, the path that enemies took was dynamically controlled and updated by the A* Search algorithm. This algorithm ensured that the enemies found the shortest path while avoiding obstacles such as water and trees in the environment, as well as crossbows placed by the user. To optimize the user's experience, the crossbows targeted the enemy closest to them by measuring the Euclidean distance from all enemies. Additionally, I implemented a currency system that limited the user's ability to place crossbows. If an enemy reached its target, the user's currency decreased. However, if a crossbow destroyed the enemy, the user's currency increased, allowing them to purchase more crossbows. To ramp up the game's difficulty, every time an enemy was destroyed, all newly-spawning enemies required more hits to be defeated than the previous ones. This dynamic difficulty scaling provided an additional challenge for the player. If the currency value reached zero, the game would be over and the user would have to start all over again.",
+      link: 'https://sharemygame.com/@Deathsmoke94/muneeb-s-realm-rush/',
+    },
   ],
   // Display blog posts from your medium or dev account. (Optional)
   blog: {
