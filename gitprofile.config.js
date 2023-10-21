@@ -166,11 +166,11 @@ const config = {
   },
 
   // Optional Footer. Supports plain text or HTML.
-  footer: `Made with <a 
-      class="text-primary" href="https://github.com/mnbrshd/mnbrshd.githun.io"
-      target="_blank"
-      rel="noreferrer"
-    >GitProfile</a> and ❤️`,
+  //footer: `Made with <a 
+     // class="text-primary""
+     // target="_blank"
+    //  rel="noreferrer"
+  //  >GitProfile</a> and ❤️`,
 };
 
 export default config;
