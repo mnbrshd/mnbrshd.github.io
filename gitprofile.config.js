@@ -30,7 +30,7 @@ const config = {
   },
   resume: {
     fileUrl:
-      'https://drive.google.com/file/d/1sAHsVwfbnQFy3d-ddR5lvywEi6yLeP2k/view?usp=sharing', // Empty fileUrl will hide the `Download Resume` button.
+      'https://drive.google.com/file/d/1VoqTq3TZvZ6tQUBdTWwLrhDfpQYJauWC/view?usp=sharing', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'Python',
@@ -41,6 +41,7 @@ const config = {
     'JavaScript',
     'React.js',
     'FastAPI',
+    'Jinja',
     'SQLAlchemy',
     'MySQL',
     'PostgreSQL',
