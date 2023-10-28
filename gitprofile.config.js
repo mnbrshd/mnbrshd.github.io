@@ -63,6 +63,12 @@ const config = {
   ],
   certifications: [
     {
+      name: 'Data Engineer Core Skillset',
+      body: 'Workera.ai',
+      year: 'Oct 2023',
+      link: 'https://app.workera.ai/public/candidate/certificate?code=9W3B6WO2'
+    },
+    {
       name: 'MLOps: ML Model Deployment + AWS Sagemaker, GCP, Apple Cases',
       body: 'Udemy',
       year: 'June 2023',
