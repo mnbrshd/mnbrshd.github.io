@@ -66,13 +66,13 @@ const config = {
       name: 'Software Engineer Core Skillset',
       body: 'Workera.ai',
       year: 'Oct 2023',
-      link: 'https://app.workera.ai/public/candidate/certificate?code=FK1Z0K2O'
+      link: 'https://app.workera.ai/public/candidate/certificate?code=0PWHUHW3'
     },
     {
       name: 'Data Engineer Core Skillset',
       body: 'Workera.ai',
       year: 'Oct 2023',
-      link: 'https://app.workera.ai/public/candidate/certificate?code=9W3B6WO2'
+      link: 'https://app.workera.ai/public/candidate/certificate?code=9IWHC0PX'
     },
     {
       name: 'MLOps: ML Model Deployment + AWS Sagemaker, GCP, Apple Cases',
