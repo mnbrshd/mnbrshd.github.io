@@ -63,6 +63,12 @@ const config = {
   ],
   certifications: [
     {
+      name: 'Software Engineer Core Skillset',
+      body: 'Workera.ai',
+      year: 'Oct 2023',
+      link: 'https://app.workera.ai/public/candidate/certificate?code=FK1Z0K2O'
+    },
+    {
       name: 'Data Engineer Core Skillset',
       body: 'Workera.ai',
       year: 'Oct 2023',
@@ -75,7 +81,7 @@ const config = {
       link: 'https://www.udemy.com/certificate/UC-45fa8654-74ce-4771-931f-534afe853501/'
     },
     {
-      name: 'Computer Vision Skill Recognition',
+      name: 'Computer Vision for Data Scientists Skillset',
       body: 'Workera.ai',
       year: 'April 2023',
       link: 'https://app.workera.ai/public/candidate/certificate?code=PKW2C3LK'
