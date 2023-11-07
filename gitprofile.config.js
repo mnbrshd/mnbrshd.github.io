@@ -64,7 +64,6 @@ const config = {
     },
   ],
   certifications: [
-    https://www.udemy.com/certificate/UC-4d3a7dfb-6dc8-4536-b243-29cfb0d4e7ae/
     {
       name: 'FastAPI - The Complete Course 2023(Beginner + Advanced)',
       body: 'Udemy',
