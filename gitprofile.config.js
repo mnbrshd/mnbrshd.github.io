@@ -42,6 +42,8 @@ const config = {
     'React.js',
     'FastAPI',
     'Jinja',
+    'OAuth',
+    'JWT',
     'SQLAlchemy',
     'MySQL',
     'PostgreSQL',
@@ -62,6 +64,13 @@ const config = {
     },
   ],
   certifications: [
+    https://www.udemy.com/certificate/UC-4d3a7dfb-6dc8-4536-b243-29cfb0d4e7ae/
+    {
+      name: 'FastAPI - The Complete Course 2023(Beginner + Advanced)',
+      body: 'Udemy',
+      year: 'Nov 2023',
+      link: 'https://www.udemy.com/certificate/UC-4d3a7dfb-6dc8-4536-b243-29cfb0d4e7ae/'
+    },
     {
       name: 'Software Engineer Core Skillset',
       body: 'Workera.ai',
@@ -134,6 +143,13 @@ const config = {
 
   // To hide the `My Projects` section, keep it empty.
   externalProjects: [
+    {
+      title: 'Todo App FastAPI',
+      description:
+        "This is a FastAPI application that can keep track of a todo list of the user. Made using FastAPI, Jinja, OAuth, SQLAlchemy and SQLite. Deployed on Render.com. I wanted to use PostgreSQL for production DB but it expires on Render after 90 days.",
+      imageUrl: 'https://via.placeholder.com/250x250',
+      link: 'https://mnbrshd-todoappfastapi.onrender.com/auth/',
+    },
     {
       title: 'Travel Advisor',
       description:
