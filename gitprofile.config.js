@@ -128,7 +128,7 @@ const config = {
   education: [
     {
       institution: 'National University of Sciences and Technology, Islamabad, Pakistan',
-      degree: 'MS Robotics and Intelligent Machine Engineering',
+      degree: 'MS Robotics and Artificial Intelligence',
       from: '2018',
       to: '2022',
     },
