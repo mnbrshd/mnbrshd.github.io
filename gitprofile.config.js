@@ -143,13 +143,6 @@ const config = {
   // To hide the `My Projects` section, keep it empty.
   externalProjects: [
     {
-      title: 'Face Mesh Detection App',
-      description:
-        "This is a simple Python web application to detect and overlay face mesh on faces. Created and deployed using Streamlit and MediaPipe. It supports inference for both image and videos.",
-      imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://facemeshapp-mnbrshd.streamlit.app',
-    },
-    {
       title: 'Google Stock Visualization App',
       description:
         "This is a simple Python web application to visualize Google Stocks Closing Price and Volume Price. Created and deployed using Streamlit and YFinance.",
