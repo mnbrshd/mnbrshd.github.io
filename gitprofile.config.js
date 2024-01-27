@@ -57,9 +57,16 @@ const config = {
   experiences: [
     {
       company: 'siParadigm Diagnostic Informatics',
-      position: 'AI Developer',
-      from: 'January 2019',
+      position: 'AI Developer II',
+      from: 'January 2022',
       to: 'Present',
+      companyLink: 'https://siparadigm.com',
+    },
+    {
+      company: 'siParadigm Diagnostic Informatics',
+      position: 'AI Developer',
+      from: 'July 2019',
+      to: 'January 2022',
       companyLink: 'https://siparadigm.com',
     },
   ],
