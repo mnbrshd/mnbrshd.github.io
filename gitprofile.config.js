@@ -65,6 +65,12 @@ const config = {
   ],
   certifications: [
     {
+      name: 'Introduction to Cloud Computing',
+      body: 'IBM',
+      year: 'Jan 2024',
+      link: 'https://www.coursera.org/account/accomplishments/verify/UNV2TVB6R6Q6'
+    },
+    {
       name: 'FastAPI - The Complete Course 2023(Beginner + Advanced)',
       body: 'Udemy',
       year: 'Nov 2023',
