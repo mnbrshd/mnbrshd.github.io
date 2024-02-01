@@ -156,6 +156,13 @@ const config = {
   // To hide the `My Projects` section, keep it empty.
   externalProjects: [
     {
+      title: 'Text Summarizer App',
+      description:
+        "This is a simple transformer-based text summarization application implemented with CI/CD workflow. Created and deployed using Gradio, HuggingFace, and Github Codespaces.",
+      imageUrl: 'https://via.placeholder.com/250x250',
+      link: 'https://huggingface.co/spaces/mnbrshd/demo2mlopscourse',
+    },
+    {
       title: 'Google Stock Visualization App',
       description:
         "This is a simple Python web application to visualize Google Stocks Closing Price and Volume Price. Created and deployed using Streamlit and YFinance.",
@@ -165,21 +172,21 @@ const config = {
     {
       title: 'Todo App FastAPI',
       description:
-        "This is a FastAPI application that can keep track of a todo list of the user. Made using FastAPI, Jinja, OAuth, SQLAlchemy and SQLite. Deployed on Render.com. I wanted to use PostgreSQL for production DB but it expires on Render after 90 days.",
+        "This is a FastAPI application that can keep track of a to-do list of the user. Made using FastAPI, Jinja, OAuth, SQLAlchemy, and SQLite. Deployed on Render.com. I wanted to use PostgreSQL for production DB but it expires on Render after 90 days.",
       imageUrl: 'https://via.placeholder.com/250x250',
       link: 'https://mnbrshd-todoappfastapi.onrender.com/auth/',
     },
     {
       title: 'Travel Advisor',
       description:
-        "This is a React application that tells a user about local attractions, hotels and restaurants depending on the user's location. Made using React.js and Firebase DB.",
+        "This is a React application that tells a user about local attractions, hotels, and restaurants depending on the user's location. Made using React.js and Firebase DB.",
       imageUrl: 'https://via.placeholder.com/250x250',
       link: 'https://travel-advisor-jsmuneeb.netlify.app',
     },
     {
       title: 'Biorhythm Calculator',
       description:
-        "The biorhythm theory is the pseudoscientific idea that our daily lives are significantly affected by rhythmic cycles with periods of exactly 23, 28 and 33 days, typically a 23-day physical cycle, a 28-day emotional cycle, and a 33-day intellectual cycle. Made using React.js, Ionic, Rechart.js and Day.js",
+        "The biorhythm theory is the pseudoscientific idea that our daily lives are significantly affected by rhythmic cycles with periods of exactly 23, 28, and 33 days, typically a 23-day physical cycle, a 28-day emotional cycle, and a 33-day intellectual cycle. Made using React.js, Ionic, Rechart.js, and Day.js",
       imageUrl: 'https://via.placeholder.com/250x250',
       link: 'https://munsbiorhythmcalculator.netlify.app',
     },
