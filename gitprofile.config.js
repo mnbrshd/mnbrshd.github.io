@@ -156,7 +156,7 @@ const config = {
   // To hide the `My Projects` section, keep it empty.
   externalProjects: [
     {
-      title: 'Text Summarizer App',
+      title: 'Code Instructor App',
       description:
         "This is a simple transformer-based code instruction application implemented with CI/CD workflow. Created and deployed using Streamlit, HuggingFace, and Github Actions.",
       imageUrl: 'https://via.placeholder.com/250x250',
