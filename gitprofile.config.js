@@ -158,7 +158,14 @@ const config = {
     {
       title: 'Text Summarizer App',
       description:
-        "This is a simple transformer-based text summarization application implemented with CI/CD workflow. Created and deployed using Gradio, HuggingFace, and Github Codespaces.",
+        "This is a simple transformer-based code instruction application implemented with CI/CD workflow. Created and deployed using Streamlit, HuggingFace, and Github Actions.",
+      imageUrl: 'https://via.placeholder.com/250x250',
+      link: 'https://huggingface.co/spaces/mnbrshd/CodeGenerator',
+    },
+    {
+      title: 'Text Summarizer App',
+      description:
+        "This is a simple transformer-based text summarization application implemented with CI/CD workflow. Created and deployed using Gradio, HuggingFace, and Github Actions.",
       imageUrl: 'https://via.placeholder.com/250x250',
       link: 'https://huggingface.co/spaces/mnbrshd/demo2mlopscourse',
     },
