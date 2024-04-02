@@ -72,6 +72,12 @@ const config = {
   ],
   certifications: [
     {
+      name: 'MLOps Specialization',
+      body: 'Duke University',
+      year: 'Feb 2024',
+      link: 'https://www.coursera.org/account/accomplishments/specialization/certificate/7UWTS3BASXB9'
+    },
+    {
       name: 'Introduction to Cloud Computing',
       body: 'IBM',
       year: 'Jan 2024',
@@ -175,13 +181,6 @@ const config = {
         "This is a simple Python web application to visualize Google Stocks Closing Price and Volume Price. Created and deployed using Streamlit and YFinance.",
       imageUrl: 'https://via.placeholder.com/250x250',
       link: 'https://mnbrshd-stockapp.streamlit.app',
-    },
-    {
-      title: 'Todo App FastAPI',
-      description:
-        "This is a FastAPI application that can keep track of a to-do list of the user. Made using FastAPI, Jinja, OAuth, SQLAlchemy, and SQLite. Deployed on Render.com. I wanted to use PostgreSQL for production DB but it expires on Render after 90 days.",
-      imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://mnbrshd-todoappfastapi.onrender.com/auth/',
     },
     {
       title: 'Travel Advisor',
