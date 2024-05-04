@@ -158,7 +158,7 @@ const config = {
     {
       title: 'Simple Question Answering App',
       description:
-        "This is a simple LLM-based code question-answering application created and deployed using Streamlit and HuggingFace",
+        "This is a simple LLM-based code question-answering application created and deployed using LangChain, Streamlit and HuggingFace",
       imageUrl: 'https://via.placeholder.com/250x250',
       link: 'https://huggingface.co/spaces/mnbrshd/SimpleQnAApp',
     },
