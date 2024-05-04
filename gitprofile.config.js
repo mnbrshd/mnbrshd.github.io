@@ -34,22 +34,16 @@ const config = {
   },
   skills: [
     'Python',
-    'C#',
-    'C++',
-    'HTML',
-    'CSS',
-    'JavaScript',
-    'React.js',
+    'Streamlit',
+    'Gradio',
     'FastAPI',
     'Jinja',
     'OAuth',
     'JWT',
-    'SQLAlchemy',
-    'MySQL',
-    'PostgreSQL',
+    'SQL',
     'Tensorflow',
     'PyTorch',
-    'AWS S3',
+    'AWS',
     'Jira',
     'Git',
     'Docker',
@@ -161,19 +155,13 @@ const config = {
 
   // To hide the `My Projects` section, keep it empty.
   externalProjects: [
+    https://huggingface.co/spaces/mnbrshd/SimpleQnAApp
     {
-      title: 'Code Instructor App',
+      title: 'Simple Question Answering App',
       description:
-        "This is a simple transformer-based code instruction application implemented with CI/CD workflow. Created and deployed using Streamlit, HuggingFace, and Github Actions.",
+        "This is a simple LLM-based code question-answering application created and deployed using Streamlit and HuggingFace",
       imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://huggingface.co/spaces/mnbrshd/CodeGenerator',
-    },
-    {
-      title: 'Text Summarizer App',
-      description:
-        "This is a simple transformer-based text summarization application implemented with CI/CD workflow. Created and deployed using Gradio, HuggingFace, and Github Actions.",
-      imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://huggingface.co/spaces/mnbrshd/demo2mlopscourse',
+      link: 'https://huggingface.co/spaces/mnbrshd/SimpleQnAApp',
     },
     {
       title: 'Google Stock Visualization App',
@@ -188,13 +176,6 @@ const config = {
         "This is a React application that tells a user about local attractions, hotels, and restaurants depending on the user's location. Made using React.js and Firebase DB.",
       imageUrl: 'https://via.placeholder.com/250x250',
       link: 'https://travel-advisor-jsmuneeb.netlify.app',
-    },
-    {
-      title: 'Biorhythm Calculator',
-      description:
-        "The biorhythm theory is the pseudoscientific idea that our daily lives are significantly affected by rhythmic cycles with periods of exactly 23, 28, and 33 days, typically a 23-day physical cycle, a 28-day emotional cycle, and a 33-day intellectual cycle. Made using React.js, Ionic, Rechart.js, and Day.js",
-      imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://munsbiorhythmcalculator.netlify.app',
     },
     {
       title: 'Realm Rush',
