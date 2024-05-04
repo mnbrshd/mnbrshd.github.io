@@ -155,7 +155,6 @@ const config = {
 
   // To hide the `My Projects` section, keep it empty.
   externalProjects: [
-    https://huggingface.co/spaces/mnbrshd/SimpleQnAApp
     {
       title: 'Simple Question Answering App',
       description:
