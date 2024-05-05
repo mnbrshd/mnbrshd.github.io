@@ -158,22 +158,31 @@ const config = {
     {
       title: 'Simple Question Answering App',
       description:
-        "This is a simple LLM-based code question-answering application created and deployed using LangChain, Streamlit and HuggingFace",
-      imageUrl: 'https://via.placeholder.com/250x250',
+        "This is a simple LLM-based application that finds a similar word from a Vector Store. It was created and deployed using LangChain, FAISS Vector Store, Streamlit and HuggingFace",
+      link: 'https://huggingface.co/spaces/mnbrshd/VectorSimilarityFind',
+    },
+    {
+      title: 'Talkie Boi App',
+      description:
+        "This is a simple LLM-based chat application that behaves like a talkative 5 year old kid. It was created and deployed using LangChain, Streamlit and HuggingFace",
+      link: 'https://huggingface.co/spaces/mnbrshd/ChatModelApp',
+    },
+    {
+      title: 'Simple Question Answering App',
+      description:
+        "This is a simple LLM-based question-answering application created and deployed using LangChain, Streamlit and HuggingFace",
       link: 'https://huggingface.co/spaces/mnbrshd/SimpleQnAApp',
     },
     {
       title: 'Google Stock Visualization App',
       description:
         "This is a simple Python web application to visualize Google Stocks Closing Price and Volume Price. Created and deployed using Streamlit and YFinance.",
-      imageUrl: 'https://via.placeholder.com/250x250',
       link: 'https://mnbrshd-stockapp.streamlit.app',
     },
     {
       title: 'Travel Advisor',
       description:
         "This is a React application that tells a user about local attractions, hotels, and restaurants depending on the user's location. Made using React.js and Firebase DB.",
-      imageUrl: 'https://via.placeholder.com/250x250',
       link: 'https://travel-advisor-jsmuneeb.netlify.app',
     },
     {
