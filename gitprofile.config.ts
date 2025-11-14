@@ -125,6 +125,13 @@ const CONFIG = {
   ],
   experiences: [
     {
+      company: 'AIXFF Tech Inc.',
+      position: 'Machine Learning Engineer',
+      from: 'September 2025',
+      to: 'Present',
+      companyLink: 'https://aixff.com',
+    },
+    {
       company: 'siParadigm Diagnostic Informatics',
       position: 'Senior AI Developer',
       from: 'January 2025',
